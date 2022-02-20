@@ -3,4 +3,7 @@ public class Helloworld {
         int age = 12;
         System.out.println(age);
     }
+    static{
+        System.out.println("Static Block");
+    }
 }
